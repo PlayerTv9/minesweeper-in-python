@@ -6,7 +6,7 @@
 Minesweeper realizzato con pygame
 
 <p align="center">
-  <img src="screen.png" alt="Screen dell'app" width=627 height=727>
+  <img src="assets/screen.png" alt="Screen dell'app" width=627 height=727>
 </p>
 
 ## comandi
